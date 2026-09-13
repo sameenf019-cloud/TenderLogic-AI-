@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+groq
+pymupdf
+rank_bm25
+pydantic
+pytesseract
+pillow
+python-dotenv
