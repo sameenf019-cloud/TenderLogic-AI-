@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.evn
+*.env
+
+# TenderLogic runtime artifacts
+.tenderlogic_cache/
+server_output.log
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node / frontend build (source not included, only dist is committed)
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
